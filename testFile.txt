@@ -1,5 +1,5 @@
 This is a sample file.
-Adding line 1 for test.
+Adding line 1 for test.user2
 Adding line 1 for test.
 
 Adding line 4 for test.
